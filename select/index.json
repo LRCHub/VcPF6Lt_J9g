@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "four seasons.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T14:43:08.075121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Four Seasons",
+      "artist": "Killer Dwarfs",
+      "has_synced": false,
+      "path": "select/01_Four_Seasons_Killer_Dwarfs.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Four Seasons",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/02_All_Four_Seasons_Sting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Four Seasons",
+      "artist": "Roy Woods",
+      "has_synced": true,
+      "path": "select/03_Four_Seasons_Roy_Woods.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Four Seasons In One Day",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/04_Four_Seasons_In_One_Day_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Four Seasons In One Day",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/05_Four_Seasons_In_One_Day_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Four Seasons In One Day",
+      "artist": "Crowded House",
+      "has_synced": true,
+      "path": "select/06_Four_Seasons_In_One_Day_Crowded_House.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Four Seasons Of Loneliness",
+      "artist": "Boyz II Men",
+      "has_synced": true,
+      "path": "select/07_Four_Seasons_Of_Loneliness_Boyz_II_Men.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Four Seasons Of Loneliness",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/08_Four_Seasons_Of_Loneliness_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Four Seasons Of Lonliness",
+      "artist": "Boyz II Men",
+      "has_synced": true,
+      "path": "select/09_Four_Seasons_Of_Lonliness_Boyz_II_Men.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Four Seasons Spring",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/10_The_Four_Seasons_Spring_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Four Seasons",
+      "artist": "TAEYEON",
+      "has_synced": true,
+      "path": "select/11_Four_Seasons_TAEYEON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "사계 (Four Seasons)",
+      "artist": "Taeyeon",
+      "has_synced": true,
+      "path": "select/12_사계_(Four_Seasons)_Taeyeon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Four Seasons (Bonus Track)",
+      "artist": "Killer Dwarfs",
+      "has_synced": false,
+      "path": "select/13_Four_Seasons_(Bonus_Track)_Killer_Dwarfs.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Four Seasons",
+      "artist": "Namie Amuro",
+      "has_synced": false,
+      "path": "select/14_Four_Seasons_Namie_Amuro.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "four seasons.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_four_seasons._Brent_Faiyaz.txt"
+    }
+  ]
+}
